@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Sandeep%20M&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Builder&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=230&section=header&text=Sandeep%20M&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=33&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Builder&descAlignY=68&descSize=18&descColor=8b949e" width="100%" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sandeep+M+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Engineer+%F0%9F%A4%96;MERN+Stack+%7C+TypeScript+%7C+Python;Building+impactful+solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
